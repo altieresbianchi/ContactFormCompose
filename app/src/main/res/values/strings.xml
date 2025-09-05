@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ContactFormCompose</string>
+
+    <string name="label_contact">Contact</string>
+    <string name="label_loading">Loading…</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_name">Name</string>
+    <string name="label_message">Message</string>
+    <string name="label_subject">Subject</string>
+    <string name="label_send">Send</string>
+
+    <string name="msg_error_complete_request">The request could not be completed.</string>
+
+    <string name="contact_form_screen">Contact Form</string>
+    <string name="contact_info_screen">Contact us using the form below.</string>
+    <string name="contact_label_subject">Select the subject.</string>
+    <string name="contact_label_valid_email">Valid email</string>
+    <string name="contact_label_select_subject">Select a subject</string>
+
+    <!-- Contact validation errors -->
+    <string name="error_name_required">Name is required</string>
+    <string name="error_email_required">E-mail is required</string>
+    <string name="error_email_invalid">Invalid email</string>
+    <string name="error_subject_required">Subject is required</string>
+    <string name="error_message_required">Message is required</string>
+    <string name="contact_submit_success">Message sent successfully</string>
+    <string name="contact_submit_error">Failed to send message</string>
+</resources>
